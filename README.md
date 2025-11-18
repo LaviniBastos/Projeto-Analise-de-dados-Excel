@@ -136,6 +136,13 @@ A análise foi conduzida de forma exploratória, utilizando o **Microsoft Excel*
         
 - Repetir a análise mensalmente para acompanhar evolução e identificar tendências.
 - Integrar futuramente com dados reais de clientes ou e-commerce para análises preditivas.
+
+
+---
+
+Primeira versão e primeira parte do Dashboard com as principais métricas e KPI's do projeto feito no **PowerBi**
+
+![imagem](DashParte1.versao1.png)
     
 
 ---
